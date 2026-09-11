@@ -6,6 +6,8 @@ MCA student and aspiring **Full-Stack Developer** with an interest in **Generati
 
 I enjoy building practical applications and exploring technologies across software development, AI, and cloud computing.
 
+Japanese JLPT N2 Certified.
+
 ---
 
 ## 🎓 Education
@@ -15,11 +17,6 @@ Currently Pursuing
 
 **Bachelor of Business Administration – Computer Applications (BBA-CA)**  
 Garware College of Commerce | 2026
-
-- FY CGPA: **9.55 / 10**
-- SY CGPA: **9.56 / 10**
-- HSC: **90%**
-- SSC: **93%**
 
 ---
 
@@ -72,7 +69,7 @@ Garware College of Commerce | 2026
 
 ---
 
-## 🇯🇵 Japanese
+## Japanese
 
 **JLPT N2 Certified**
 
