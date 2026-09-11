@@ -37,9 +37,7 @@ Garware College of Commerce | 2026
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-374151?style=flat-square&logo=express&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
 </p>
 
 ### Generative AI & ML
@@ -52,13 +50,11 @@ Garware College of Commerce | 2026
 <img src="https://img.shields.io/badge/Mistral-7C3AED?style=flat-square"/>
 <img src="https://img.shields.io/badge/ChromaDB-6366F1?style=flat-square"/>
 <img src="https://img.shields.io/badge/FAISS-4F46E5?style=flat-square"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F59E0B?style=flat-square&logo=scikit-learn&logoColor=white"/>
 </p>
 
 ### Databases & DevOps
 
 <p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
